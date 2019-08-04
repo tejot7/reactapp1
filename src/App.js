@@ -11,6 +11,12 @@ function App() {
           tjk: Edit <code>src/App.js</code> and save to reload.<br></br>
           tjk: Edit <code>src/App.js</code> and save to reload.<br></br>
           tjk: Edit <code>src/App.js</code> and save to reload.<br></br>
+          Tomasz Kruk: Edit <code>src/App.js</code> and save to reload.<br></br>
+          Tomasz Kruk: Edit <code>src/App.js</code> and save to reload.<br></br>
+          Tomasz Kruk: Edit <code>src/App.js</code> and save to reload.<br></br>
+          author: Edit <code>src/App.js</code> and save to reload.<br></br>
+          author: Edit <code>src/App.js</code> and save to reload.<br></br>
+          author: Edit <code>src/App.js</code> and save to reload.<br></br>
         </p>
         <a
           className="App-link"
